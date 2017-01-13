@@ -1,0 +1,4 @@
+main
+py3env
+*.pyc
+*.o
